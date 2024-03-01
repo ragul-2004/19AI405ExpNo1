@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Silambarasan K</h3>
-<h3>Register Number:212221230101</h3>
+<h3>Name: Ragul A C</h3>
+<h3>Register Number:212221240042</h3>
 
 
 <h3>AIM:</h3>
